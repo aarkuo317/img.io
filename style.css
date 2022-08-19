@@ -27,7 +27,7 @@ p {
 
 #banner {
   height: 46rem;
-  background-image: url('https://8535df3a157f41c78d1a02bfb143d300.cc-propeller.cloud/camel-background.png');
+  background-image: url('./camel-background.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
